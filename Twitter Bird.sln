@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9FF6ED7B-ABEE-C7B3-AC52-B55181D0196C}") = "Twitter Bird", "Assembly-CSharp.csproj", "{3C1A5EFF-C88F-FB95-6936-39F627443270}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C1A5EFF-C88F-FB95-6936-39F627443270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1A5EFF-C88F-FB95-6936-39F627443270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C1A5EFF-C88F-FB95-6936-39F627443270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C1A5EFF-C88F-FB95-6936-39F627443270}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
